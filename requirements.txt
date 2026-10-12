@@ -1,0 +1,4 @@
+pypdf
+pyzipper
+tqdm
+msoffcrypto-tool
